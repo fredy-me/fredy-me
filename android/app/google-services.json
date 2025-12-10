@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548778979030",
+    "project_id": "fredyme-99845",
+    "storage_bucket": "fredyme-99845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548778979030:android:820ed54f93a560a90d6377",
+        "android_client_info": {
+          "package_name": "com.example.fredy_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxS9lmICybptRayHfYvSS7jO9yx7lo2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
