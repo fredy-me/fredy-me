@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Melkizedek  
 ### Entrepreneur • Engineer • Innovator  
 
-🚀 **Focusing on building Sokofy & high-impact software.**  
+🚀 **Focusing on Mobile Application & Web Application.**  
 📍 Based in Tanzania | 💼 Founder in the making  
 
 ---
