@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Melchizedek  
+# 👋 Hey, I'm Melkizedek  
 ### Entrepreneur • Engineer • Innovator  
 
 🚀 **Focusing on building Sokofy & high-impact software.**  
