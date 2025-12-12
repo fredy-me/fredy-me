@@ -1,16 +1,66 @@
-# fredy_me
+<div align="center">
+  
+# 👋 Hey, I'm Melchizedek  
+### Entrepreneur • Engineer • Innovator  
 
-A new Flutter project.
+🚀 **Focusing on building Sokofy & high-impact software.**  
+📍 Based in Tanzania | 💼 Founder in the making  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack & Skill Radar
 
-A few resources to get you started if this is your first Flutter project:
+### 🔧 Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ⚙️ DevOps / Cloud  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4B0082)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+### 🤖 Automation & RPA  
+![RPA](https://img.shields.io/badge/-RPA-7FBC39)
+
+---
+
+### 🪙 Blockchain & Web3  
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33)
+![Web3](https://img.shields.io/badge/-Web3-7028e4)
+
+---
+
+## 📊 GitHub Stats & Awards
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🚀 Current Focus  
+- Building **Sokofy MVP**  
+- Mastering **Java • Spring Boot • React • Flutter**
+- Reverse engineering for privacy & security
+
+---
+
+## 🙌 Let's Connect  
+Feel free to explore my projects or reach out for collaboration!
+
+</div>
