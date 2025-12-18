@@ -19,7 +19,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Spring boot](https://img.shields.io/badge/-Springboot-000000?logo=rust&logoColor=white)
+![Spring boot](https://img.shields.io/badge/-Springboot-000000?logo=rust&logoColor=green)
 
 ---
 
