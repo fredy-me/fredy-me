@@ -55,8 +55,7 @@
 ---
 
 ## 🚀 Current Focus  
-- Building **Sokofy MVP**  
-- Mastering **Java • Spring Boot • React • Flutter**
+- Mastering **Python • Spring Boot • React • Flutter**
 - Reverse engineering for privacy & security
 
 ---
