@@ -42,15 +42,16 @@
 
 ---
 
-## 📊 GitHub Stats & Awards
+<h2 align="center">📊 GitHub Stats & Awards</h2>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredy-me&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fredy-me&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredy-me&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredy-me&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-</div>
 
 ---
 
