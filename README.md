@@ -5,6 +5,7 @@
 
 🚀 **Focusing on Mobile Application & Web Application.**  
 📍 Based in Tanzania | 💼 Founder in the making  
+[![committers.top badge](https://user-badge.committers.top/tanzania/fredy-me.svg)](https://user-badge.committers.top/tanzania/fredy-me)
 
 ---
 
