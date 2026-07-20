@@ -184,7 +184,7 @@ If your organization needs a serious digital system for operations, records, rep
 
 **Email:** [fredymelkizedek@gmail.com](mailto:fredymelkizedek@gmail.com)
 **WhatsApp:** +255696189401
-**LinkedIn:** https://www.linkedin.com/in/melkizedek-antony-30962a316/
+**LinkedIn:** https://www.linkedin.com/in/melkizedek-antony/
 **Portfolio:** https://busaradigital.ebuild.workers.dev/
 **GitHub:** https://github.com/fredy-me
 
