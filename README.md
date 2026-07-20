@@ -191,6 +191,7 @@ If your organization needs a serious digital system for operations, records, rep
 ---
 
 <div align="center">
+
 ![Profile views](https://komarev.com/ghpvc/?username=fredy-me&label=Profile%20views&color=0e75b6&style=flat)
   
 ### Building practical software for serious organizations.
