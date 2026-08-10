@@ -50,17 +50,9 @@ Ranked #13 most active GitHub user in Tanzania ([committers.top](https://committ
 
 [![committers.top badge](https://user-badge.committers.top/tanzania_private/fredy-me.svg)](https://user-badge.committers.top/tanzania_private/fredy-me)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fredy-me&show_icons=true&theme=radical&hide_border=true" />
-
 </div>
 
----
 
-## Latest Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
 
