@@ -46,7 +46,7 @@ Focus: **Mobile (Flutter, Kotlin)** · **Backend/APIs** · **Business & SaaS Sys
 
 <div align="center">
 
-Ranked #13 most active GitHub user in Tanzania ([committers.top](https://committers.top/tanzania_private))
+Ranked most active GitHub user in Tanzania ([committers.top](https://committers.top/tanzania_private))
 
 [![committers.top badge](https://user-badge.committers.top/tanzania_private/fredy-me.svg)](https://user-badge.committers.top/tanzania_private/fredy-me)
 
