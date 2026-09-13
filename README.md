@@ -5,9 +5,9 @@
 
 Building practical software for businesses, institutions, and organizations across Africa.
 
-Tanzania · Founder, [Busara Digital](https://busaradigital.ebuild.workers.dev/)
+Tanzania · Founder, [Busara Digital](https://busaradigital.com/)
 
-[Portfolio](https://busaradigital.ebuild.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/melkizedek-antony/) · [GitHub](https://github.com/fredy-me) · [Email](mailto:fredymelkizedek@gmail.com)
+[Portfolio](https://busaradigital.com/) · [LinkedIn](https://www.linkedin.com/in/melkizedek-antony/) · [GitHub](https://github.com/fredy-me) · [Email](mailto:fredymelkizedek@gmail.com)
 
 </div>
 
